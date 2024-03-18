@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AdvancedArchitect_CoChi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+06d9f7e801f3ca13e3166477e7ac9698a9edc914")]
 [assembly: System.Reflection.AssemblyProductAttribute("AdvancedArchitect_CoChi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AdvancedArchitect_CoChi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

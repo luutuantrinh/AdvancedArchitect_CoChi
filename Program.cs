@@ -49,19 +49,36 @@ public class Program
         PerformanceTest.MeasurePerformance();
         Console.ReadLine();
 
+        // Test BFS with bool[] visited
+        Console.WriteLine("Performance test for BFS with bool[] visited:");
+        AdvancedArchitect_CoChi.Performance.BFSPerformanceTester.TestBFSWithBoolArray();
+
+        // Test BFS with HashSet<int> visited
+        Console.WriteLine("\nPerformance test for BFS with HashSet<int> visited:");
+        AdvancedArchitect_CoChi.Performance.BFSPerformanceTester.TestBFSWithHashSet();
+
+        // Compare performance of BFS with bool[] visited and HashSet<int> visited
+        BFSPerformanceTester.CompareBFSPerformance();
+
+        Console.ReadLine();
+
 
         //Tối ưu hiệu năng 1 
-        ConnectedComponentGraph g = new ConnectedComponentGraph(4);
+        ConnectedComponentGraph g = new ConnectedComponentGraph(7);
 
         // Thêm cạnh vào đồ thị
         g.AddEdge(1, 2);
         g.AddEdge(1, 3);
-        g.AddEdge(2, 4);
+        g.AddEdge(2, 3);
+        g.AddEdge(5, 6);
+        g.AddEdge(6, 7);
+        g.AddEdge(5, 7);
 
         HashSet<int> visitedOpPer = new HashSet<int>();
 
         Console.WriteLine("Tối ưu hóa hiệu suất BFS starting from vertex 1:");
         g.BFS(0, visitedOpPer); // Start BFS from vertex 1 (index 0)
+        Console.WriteLine("Số thành phần liên thông của đồ thị theo BFS mới là: " + g.CountConnectedComponents());
 
         Console.ReadLine();
 

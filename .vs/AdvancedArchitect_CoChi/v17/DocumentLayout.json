@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\Trinh\\source\\repos\\AdvancedArchitect_CoChi\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{16EB300C-871C-4C7B-9206-B725B9477B67}|AdvancedArchitect_CoChi.csproj|c:\\users\\trinh\\source\\repos\\advancedarchitect_cochi\\performance\\bfsperformancetester.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16EB300C-871C-4C7B-9206-B725B9477B67}|AdvancedArchitect_CoChi.csproj|solutionrelative:performance\\bfsperformancetester.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{16EB300C-871C-4C7B-9206-B725B9477B67}|AdvancedArchitect_CoChi.csproj|c:\\users\\trinh\\source\\repos\\advancedarchitect_cochi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{16EB300C-871C-4C7B-9206-B725B9477B67}|AdvancedArchitect_CoChi.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -22,10 +26,6 @@
       "RelativeMoniker": "D:0:0:{16EB300C-871C-4C7B-9206-B725B9477B67}|AdvancedArchitect_CoChi.csproj|solutionrelative:graph\\connectedcomponentgraph.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{16EB300C-871C-4C7B-9206-B725B9477B67}|AdvancedArchitect_CoChi.csproj|c:\\users\\trinh\\source\\repos\\advancedarchitect_cochi\\performance\\bfsperformancetester.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{16EB300C-871C-4C7B-9206-B725B9477B67}|AdvancedArchitect_CoChi.csproj|solutionrelative:performance\\bfsperformancetester.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{331D3C0C-9FF6-41C3-A573-12E7C7F84350}|..\\AdvancedArchitect_CoChi.Tests\\AdvancedArchitect_CoChi.Tests.csproj|c:\\users\\trinh\\source\\repos\\advancedarchitect_cochi.tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -43,24 +43,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 0,
               "Title": "BFSPerformanceTester.cs",
               "DocumentMoniker": "C:\\Users\\Trinh\\source\\repos\\AdvancedArchitect_CoChi\\Performance\\BFSPerformanceTester.cs",
               "RelativeDocumentMoniker": "Performance\\BFSPerformanceTester.cs",
               "ToolTip": "C:\\Users\\Trinh\\source\\repos\\AdvancedArchitect_CoChi\\Performance\\BFSPerformanceTester.cs",
               "RelativeToolTip": "Performance\\BFSPerformanceTester.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAJAAAA",
+              "ViewState": "AQIAAB8AAAAAAAAAAAA2wDMAAAAVAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-18T12:09:08.206Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "ConnectedComponentGraph.cs",
               "DocumentMoniker": "C:\\Users\\Trinh\\source\\repos\\AdvancedArchitect_CoChi\\Graph\\ConnectedComponentGraph.cs",
               "RelativeDocumentMoniker": "Graph\\ConnectedComponentGraph.cs",
@@ -68,12 +68,11 @@
               "RelativeToolTip": "Graph\\ConnectedComponentGraph.cs",
               "ViewState": "AQIAAA0AAAAAAAAAAAAiwB0AAAAjAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-12T19:27:42.275Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-12T19:27:42.275Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "PerformanceTest.cs",
               "DocumentMoniker": "C:\\Users\\Trinh\\source\\repos\\AdvancedArchitect_CoChi\\Performance\\PerformanceTest.cs",
               "RelativeDocumentMoniker": "Performance\\PerformanceTest.cs",
@@ -81,8 +80,7 @@
               "RelativeToolTip": "Performance\\PerformanceTest.cs",
               "ViewState": "AQIAAAgAAAAAAAAAAAAmwBYAAAAzAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-12T18:24:50.79Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-12T18:24:50.79Z"
             },
             {
               "$type": "Document",
@@ -98,7 +96,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "GraphTests.cs",
               "DocumentMoniker": "C:\\Users\\Trinh\\source\\repos\\AdvancedArchitect_CoChi.Tests\\GraphTests\\GraphTests.cs",
               "RelativeDocumentMoniker": "..\\AdvancedArchitect_CoChi.Tests\\GraphTests\\GraphTests.cs",
@@ -106,8 +104,7 @@
               "RelativeToolTip": "..\\AdvancedArchitect_CoChi.Tests\\GraphTests\\GraphTests.cs",
               "ViewState": "AQIAAAgAAAAAAAAAAAA4wAkAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-12T18:09:12.101Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-12T18:09:12.101Z"
             },
             {
               "$type": "Document",
@@ -119,25 +116,23 @@
               "RelativeToolTip": "..\\AdvancedArchitect_CoChi.Tests\\UnitTest1.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-12T18:08:06.812Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-12T18:08:06.812Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Trinh\\source\\repos\\AdvancedArchitect_CoChi\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\Trinh\\source\\repos\\AdvancedArchitect_CoChi\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA0AAAAhAAAA",
+              "ViewState": "AQIAAEQAAAAAAAAAAAAuwFMAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-12T17:14:23.581Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-12T17:14:23.581Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Graph.cs",
               "DocumentMoniker": "C:\\Users\\Trinh\\source\\repos\\AdvancedArchitect_CoChi\\Graph\\Graph.cs",
               "RelativeDocumentMoniker": "Graph\\Graph.cs",
@@ -145,8 +140,7 @@
               "RelativeToolTip": "Graph\\Graph.cs",
               "ViewState": "AQIAAEAAAAAAAAAAAAA+wFIAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-12T08:04:26.632Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-12T08:04:26.632Z"
             },
             {
               "$type": "Document",
